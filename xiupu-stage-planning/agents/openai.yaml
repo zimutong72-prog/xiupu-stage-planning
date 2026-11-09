@@ -1,0 +1,4 @@
+interface:
+  display_name: "秀谱舞台策划"
+  short_description: "把创意与节目资料整理成舞台方案，跟进找参考和现场改稿"
+  default_prompt: "用 $xiupu-stage-planning 梳理这份节目资料，并判断下一步该确认概念、整理 Q 表还是处理反馈。"
